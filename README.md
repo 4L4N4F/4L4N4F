@@ -1,4 +1,4 @@
-## Hi there 👋
+💡 Portfolio in progress | Projects coming soon
 
 <!--
 **4L4N4F/4L4N4F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
