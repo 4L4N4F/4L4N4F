@@ -1,4 +1,4 @@
-## tech stack 👩‍💻
+## tech stack
 
 | task / skill | technology |
 |--------------|------------|
@@ -9,7 +9,7 @@
 | **data workflow automation** | ![Google Apps Script Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=googleappsscript&logoColor=fff&style=for-the-badge) 
 | **data visualization + reporting** |![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Badge](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SEABORN](https://img.shields.io/badge/SEABORN-7FB6B6?style=for-the-badge)|
 
-## complementary stack 👩‍💻
+## complementary stack
 
 | category | technology |
 |--------------|------------|
@@ -18,6 +18,6 @@
 | **productivity** | ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge) ![Toggl Track Badge](https://img.shields.io/badge/Toggl%20Track-E57CD8?logo=toggltrack&logoColor=fff&style=for-the-badge) |
 | **creative + design** | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
-## learning 📚
+## learning
 
 ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Zapier Badge](https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=fff&style=for-the-badge)
